@@ -1,0 +1,80 @@
+/*!
+ * Start Bootstrap - Busines Frontpage (https://startbootstrap.com/template-overviews/business-frontpage)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-business-frontpage/blob/master/LICENSE)
+ */
+body {
+  padding-top: 56px;
+}
+
+@font-face {
+    font-family: 'Fastcom-BoldCond';
+    src: url('../fonts/Fastcom-BoldCond.eot');
+    src: url('../fonts/Fastcom-BoldCond.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Fastcom-BoldCond.woff2') format('woff2'),
+        url('../fonts/Fastcom-BoldCond.woff') format('woff'),
+        url('../fonts/Fastcom-BoldCond.ttf') format('truetype'),
+        url('../fonts/Fastcom-BoldCond.svg#Fastcom-BoldCond') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Fastcom-EcoLight';
+    src: url('../fonts/Fastcom-EcoLight.eot');
+    src: url('../fonts/Fastcom-EcoLight.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Fastcom-EcoLight.woff2') format('woff2'),
+        url('../fonts/Fastcom-EcoLight.woff') format('woff'),
+        url('../fonts/Fastcom-EcoLight.ttf') format('truetype'),
+        url('../fonts/Fastcom-EcoLight.svg#Fastcom-EcoLight') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Fastcom';
+    src: url('../fonts/Fastcom-Medium.eot');
+    src: url('../fonts/Fastcom-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Fastcom-Medium.woff2') format('woff2'),
+        url('../fonts/Fastcom-Medium.woff') format('woff'),
+        url('../fonts/Fastcom-Medium.ttf') format('truetype'),
+        url('../fonts/Fastcom-Medium.svg#Fastcom-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Fastcom';
+    src: url('../fonts/Fastcom-Bold.eot');
+    src: url('../fonts/Fastcom-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Fastcom-Bold.woff2') format('woff2'),
+        url('../fonts/Fastcom-Bold.woff') format('woff'),
+        url('../fonts/Fastcom-Bold.ttf') format('truetype'),
+        url('../fonts/Fastcom-Bold.svg#Fastcom-Bold') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Fastcom';
+    src: url('../fonts/Fastcom-Light.eot');
+    src: url('../fonts/Fastcom-Light.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Fastcom-Light.woff2') format('woff2'),
+        url('../fonts/Fastcom-Light.woff') format('woff'),
+        url('../fonts/Fastcom-Light.ttf') format('truetype'),
+        url('../fonts/Fastcom-Light.svg#Fastcom-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Fastcom-EcoLightCond';
+    src: url('../fonts/Fastcom-EcoLightCond.eot');
+    src: url('../fonts/Fastcom-EcoLightCond.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Fastcom-EcoLightCond.woff2') format('woff2'),
+        url('../fonts/Fastcom-EcoLightCond.woff') format('woff'),
+        url('../fonts/Fastcom-EcoLightCond.ttf') format('truetype'),
+        url('../fonts/Fastcom-EcoLightCond.svg#Fastcom-EcoLightCond') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
